@@ -2,7 +2,8 @@
 Enter DOI or title of an article and this program will give its citation text formatted in APA style.
 
 ## **1. Input**
-![image](https://github.com/user-attachments/assets/bf256858-8ab5-4bf0-bcd6-21fb2778ee5e)
+![image](https://github.com/user-attachments/assets/9ae1581b-5910-4ed0-9b7c-468a83d4d4ff)
+
 
 
 ## **2. Output**
