@@ -1,13 +1,9 @@
 # **Research Tools by 7e Danewalia**
-This repository contains small programs that a researcher may find useful while carrying research activities.
+Enter DOI or title of an article and this program will give its citation text formatted in APA style.
 
 ## **1. Input**
-
-![image](https://github.com/user-attachments/assets/e07f6754-b66e-44fe-97a5-1919dd114222)
-
-![image](https://github.com/user-attachments/assets/25aaffb9-e587-4fb9-b726-0262640d068f)
-
+![image](https://github.com/user-attachments/assets/16e66a63-5113-4aeb-a86a-313fb912834a)
 
 ## **2. Output**
+![image](https://github.com/user-attachments/assets/a13dacb7-11f1-4a65-91f2-8d90cb575ee0)
 
-![image](https://github.com/user-attachments/assets/14bdb56e-ba64-4746-b7b7-c3c4b0e31457)
